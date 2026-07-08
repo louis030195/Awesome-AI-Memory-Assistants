@@ -90,6 +90,9 @@ This repository tracks the most notable **AI Memory Assistants** that act as a d
 - **[Zep](https://github.com/getzep/zep)** [![GitHub stars](https://img.shields.io/github/stars/getzep/zep?style=social&color=white)](https://github.com/getzep/zep/stargazers)  
   Long-term memory store for conversational AI. ⚡
 
+- **[Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)** [![GitHub stars](https://img.shields.io/github/stars/TerminallyLazy/Tree-Ring-Memory?style=social&color=white)](https://github.com/TerminallyLazy/Tree-Ring-Memory/stargazers)
+  Framework-agnostic Rust CLI/TUI for local agent-memory lifecycle, SQLite/FTS recall, redaction, deletion, consolidation, and audits. 🌳
+
 - **[OpenRecall](https://github.com/openrecall/openrecall)** [![GitHub stars](https://img.shields.io/github/stars/openrecall/openrecall?style=social&color=white)](https://github.com/openrecall/openrecall/stargazers)  
   Open-source alternative to Microsoft Recall. 📸
 
