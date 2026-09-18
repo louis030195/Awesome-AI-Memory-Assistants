@@ -11,7 +11,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Memory-Assistants?style=social&color=white)](https://github.com/ishandutta2007/Awesome-AI-Memory-Assistants/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-**A curated ecosystem of SaaS products and Open-Source projects building the future of Personal Memory & AI Recall.**
+**A curated ecosystem of SaaS products, open-source projects, and source-available projects building the future of Personal Memory & AI Recall.**
 
 ---
 
@@ -34,6 +34,7 @@ This repository tracks the most notable **AI Memory Assistants** that act as a d
 ## 🗺️ Table of Contents
 - [✨ SaaS Products](#-saas-products)
 - [📂 Open-Source GitHub Projects](#-open-source-github-projects)
+- [📖 Source-Available GitHub Projects](#-source-available-github-projects)
 - [🛠️ Frameworks & Stacks](#-frameworks--stacks)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚖️ Disclaimer](#-disclaimer)
@@ -81,9 +82,6 @@ This repository tracks the most notable **AI Memory Assistants** that act as a d
 - **[Letta (MemGPT)](https://github.com/letta-ai/letta)** [![GitHub stars](https://img.shields.io/github/stars/letta-ai/letta?style=social&color=white)](https://github.com/letta-ai/letta/stargazers)  
   Advanced memory management for infinite context. 🤖
 
-- **[screenpipe](https://github.com/screenpipe/screenpipe)** [![GitHub stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social&color=white)](https://github.com/screenpipe/screenpipe/stargazers)  
-  Continuous screen/audio capture for local AI search. 📺
-
 - **[Anytype](https://github.com/anyproto/anytype-ts)** [![GitHub stars](https://img.shields.io/github/stars/anyproto/anytype-ts?style=social&color=white)](https://github.com/anyproto/anytype-ts/stargazers)  
   Local-first personal knowledge and memory system. 🧱
 
@@ -102,6 +100,14 @@ This repository tracks the most notable **AI Memory Assistants** that act as a d
 - **[Limitless Open Implementations](https://github.com/search?q=limitless+ai+open+source)** — Wearable + desktop capture projects.
 - **[Otter.ai Style Transcription Tools](https://github.com/search?q=open+source+meeting+transcription)** — Open transcription using Whisper.
 - **[Memex](https://github.com/search?q=memex+ai+memory)** — Personal knowledge and memory tools.
+
+---
+
+## 📖 Source-Available GitHub Projects
+
+- **[screenpipe](https://github.com/screenpipe/screenpipe)** [![GitHub stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social&color=white)](https://github.com/screenpipe/screenpipe/stargazers)\
+  Searchable screen and audio history for recall, meeting summaries, and AI assistants via a local API and [MCP server](https://github.com/screenpipe/screenpipe/blob/main/packages/screenpipe-mcp/README.md). 📺
+  Raw history stays local by default, while configured cloud features may transmit context; the source uses the [Screenpipe Commercial License](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md) rather than an OSI open-source license.
 
 ---
 
