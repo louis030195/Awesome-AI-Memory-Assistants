@@ -11,7 +11,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Memory-Assistants?style=social&color=white)](https://github.com/ishandutta2007/Awesome-AI-Memory-Assistants/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-**A curated ecosystem of SaaS products, open-source projects, and source-available projects building the future of Personal Memory & AI Recall.**
+**A curated ecosystem of SaaS products and Open-Source projects building the future of Personal Memory & AI Recall.**
 
 ---
 
@@ -34,7 +34,6 @@ This repository tracks the most notable **AI Memory Assistants** that act as a d
 ## 🗺️ Table of Contents
 - [✨ SaaS Products](#-saas-products)
 - [📂 Open-Source GitHub Projects](#-open-source-github-projects)
-- [📖 Source-Available GitHub Projects](#-source-available-github-projects)
 - [🛠️ Frameworks & Stacks](#-frameworks--stacks)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚖️ Disclaimer](#-disclaimer)
@@ -54,6 +53,7 @@ This repository tracks the most notable **AI Memory Assistants** that act as a d
 | **[Fabric](https://fabric.so/)** | ~$13.5 Million (Est.) | $6 - $16/mo | 50MB file limit | AI-powered personal memory & knowledge tool. 🏗️ |
 | **[Rewind AI](https://rewind.ai/)** | (Successor: Limitless) | $5 - $49/mo | 5,000 tokens/day | Original app sunset; now an AI tools platform. ⏪ |
 | **[Reflect](https://reflect.app/)** | ~$1 Million (Est.) | $10 - $15/mo | 14-day trial | Minimalist note-taking with E2EE & AI help. 🪞 |
+| **[Screenpipe](https://screenpipe.com/)** | Not disclosed | Free and paid ([plans](https://screenpipe.com/pricing)) | [Current limits](https://screenpipe.com/pricing) | Searchable local screen and audio history for recall, meeting summaries, and AI context via a local API and [MCP](https://github.com/screenpipe/screenpipe/blob/main/packages/screenpipe-mcp/README.md). 📺 Source-available under the [Screenpipe Commercial License](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md); configured cloud features and connected AI clients may transmit context off-device. |
 
 ---
 
@@ -100,14 +100,6 @@ This repository tracks the most notable **AI Memory Assistants** that act as a d
 - **[Limitless Open Implementations](https://github.com/search?q=limitless+ai+open+source)** — Wearable + desktop capture projects.
 - **[Otter.ai Style Transcription Tools](https://github.com/search?q=open+source+meeting+transcription)** — Open transcription using Whisper.
 - **[Memex](https://github.com/search?q=memex+ai+memory)** — Personal knowledge and memory tools.
-
----
-
-## 📖 Source-Available GitHub Projects
-
-- **[screenpipe](https://github.com/screenpipe/screenpipe)** [![GitHub stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social&color=white)](https://github.com/screenpipe/screenpipe/stargazers)\
-  Searchable screen and audio history for recall, meeting summaries, and AI assistants via a local API and [MCP server](https://github.com/screenpipe/screenpipe/blob/main/packages/screenpipe-mcp/README.md). 📺
-  Raw history stays local by default, while configured cloud features may transmit context; the source uses the [Screenpipe Commercial License](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md) rather than an OSI open-source license.
 
 ---
 
